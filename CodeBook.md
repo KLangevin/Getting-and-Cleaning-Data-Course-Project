@@ -4,7 +4,7 @@ Getting and Cleaning Data - Course Project (Week 4)
 ##GENERAL##
 
 ###Purpose###
-The purpose of this codebook is to describe the variables, the data, and the functions used to clean up the data.
+The purpose of this codebook is to describe the variables, the data, and the functions used to clean up the data.  It's important to note that this code will automatically execute the download and extraction of the data.
 
 ###Data Source###
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -65,10 +65,6 @@ This script creates a tidy dataset from the data linked above.  It automatically
 * Creates and stores a tidy dataset (STEP 5):
  * Creates a data set (avg_data) averaging all subjects/activities excluding columns 1 - 66.
  * Creates a tidy dataset and saves it to the local directory as tidyData.txt (C:/data/UCI HAR Dataset/tidyData.txt) setting the row.name to false.
- 
-
-
-
 
 ##DATA##
 
