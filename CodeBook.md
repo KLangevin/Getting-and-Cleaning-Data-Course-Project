@@ -1,6 +1,18 @@
 #CODEBOOK#
 Getting and Cleaning Data - Course Project (Week 4)
 
+###Contents###
+* GENERAL
+ * Purpose
+ * Data Source
+ * Datasets
+* THE CODE
+ * Variables
+ * Process
+* THE DATA
+ * Activities
+ * Features
+
 ##GENERAL##
 
 ###Purpose###
