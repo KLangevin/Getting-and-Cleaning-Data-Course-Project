@@ -1,7 +1,7 @@
 #CODEBOOK#
 Getting and Cleaning Data - Course Project (Week 4)
 
-###Contents###
+###Contents of this Document###
 * GENERAL
  * Purpose
  * Data Source
